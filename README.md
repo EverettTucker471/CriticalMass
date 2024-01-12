@@ -2,15 +2,12 @@
 
 The App of Conditional Connections
 
-## Getting Started
+Critical Mass is an event organization app that allows users to base their attendance off of someone
+else's attendance. 
 
-This project is a starting point for a Flutter application.
+With Critical Mass, I hope to...
+* Build a dynamic graph GUI, that's a vertex-edge graph
+* Integrate with a server for storing events and tracking user data
+* Explore an interesting idea
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
